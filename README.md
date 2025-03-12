@@ -1,14 +1,14 @@
 # Loterry
+![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-F54A2A?logo=swift&logoColor=white)
 
 ## :camera_flash: Screenshots
 <!-- You can add more screenshots here if you like -->
-<img src="https://github.com/user-attachments/assets/125f35b5-4547-4353-a945-47958e83283d" width="200">
-<img src="hhttps://github.com/user-attachments/assets/c235439c-af82-40a9-8555-d2c5e8d4e747" width="200">
-<img src="https://github.com/user-attachments/assets/4269b3e0-8993-4d23-b260-31be3d0c7f87" width="200">
-
+<img src="https://github.com/user-attachments/assets/c235439c-af82-40a9-8555-d2c5e8d4e747" alt="Imagem 1" style="width:200px; object-fit:cover;">
+<img src="https://github.com/user-attachments/assets/4269b3e0-8993-4d23-b260-31be3d0c7f87" alt="Imagem 2" style="width:200px; object-fit:cover;">
+<img src="https://github.com/user-attachments/assets/d5b1e6e5-c537-45fe-92c7-9a3bf4402be3" alt="Imagem 3" style="width:200px; height:380px;  object-fit:cover;">
 
 ## Tecnologias
-![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)
 - AppCompatActivity
 
 
