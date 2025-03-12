@@ -9,7 +9,6 @@
 <img src="https://github.com/user-attachments/assets/d5b1e6e5-c537-45fe-92c7-9a3bf4402be3" alt="Imagem 3" style="width:200px; height:380px;  object-fit:cover;">
 
 ## Tecnologias
-- AppCompatActivity
 
 
 
